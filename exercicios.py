@@ -1,8 +1,3 @@
-from tkinter import*
+texto = 20
+print(texto)
 
-root = Tk()
-root.title('Alberto Batalha')
-bt = Button(root, text='Botão')
-bt.pack(pady=20)
-
-root.mainloop()
