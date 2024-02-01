@@ -1,3 +1,5 @@
-texto = 20
+# Variável tipo string
+texto = 'Primeiro texto'
+
 print(texto)
 
